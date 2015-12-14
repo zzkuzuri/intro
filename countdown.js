@@ -65,7 +65,7 @@ var countdown = {
 			var dhms = (i == 0) ? 365 : (i == 1) ? 24 : 60;
 			var $parent = $(CanvText.canvas.parentNode);
 
-			$parent.find('.info > .num > span ').text(Num);
+			$parent.find('.http://pixeldima.com/theme/target/css/styles.css > .num > span ').text(Num);
 
 			with(CanvText) {
 				save();
